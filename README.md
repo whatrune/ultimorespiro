@@ -58,6 +58,19 @@ ultimorespiro
 },
 ```
 
+## インベントリ画像について
+
+アイテム画像を表示する場合は、使用している inventory の画像フォルダへ  
+`ultimorespiro.png` を配置してください。
+
+### 例
+
+#### QBCore / qb-inventory 系
+```txt
+ox-inventory/web/images/ultimorespiro.png
+```
+
+
 ## 基本設定
 
 主な設定は `shared/config.lua` から変更できます。
